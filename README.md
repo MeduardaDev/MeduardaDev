@@ -1,35 +1,31 @@
+<!-- Título -->
+<h1 align="center">Seja Bem vindo(a) ao meu Github. Aceita um café? (☕)</h1>
 
-<h1 align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/013/519/076/original/pixel-art-rocket-png.png" width="30px"/>
-   Bem-vindos ao meu Github!
-   <img src="https://www.pngkey.com/png/full/259-2590855_heart-in-box-pixel-heart-png.png" width="30px"/>
-</h1>
- 
+<!-- Projetos Destacados -->
  <div id="badges" align="center">
-<a href="https://github.com/Meduarda">
-  <img src="https://img.shields.io/badge/LinkedIn-dodgerblue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Meduarda">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="https://github.com/Meduarda">
-  <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-</div>
+<a href="https://github.com/MeduardaDev"><img src="https://img.shields.io/badge/Gmail-darkslateblue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="https://github.com/MeduardaDev"><img src="https://img.shields.io/badge/LinkedIn-limegreen?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://github.com/MeduardaDev"><img src="https://img.shields.io/badge/Instagram-mediumpurple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+ </div>
+ <div align="center"><img src="https://komarev.com/ghpvc/?username=Meduarda&style=flat-square&color=blue" alt=""/></div>
+
+- Meu nome é [Maria Eduarda](https://github.com/MeduardaDev), uma amante da **tecnologia** determinada a **aprender** e **criar** cenários inovadores. Minha jornada abrange o Desenvolvimento Web, envolvido pelo meu conhecimento em **Designer** e **Marketing Digital**.
+- Sou uma Programadora **Front-End** determinada e comunicativa, sempre procurando melhorar meus talentos.
+
+<!-- Estatísticas -->
+<h2 align="center">(📊) - Minhas Estatísticas:</h2>
+
+   <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeduardaDev&theme=github">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeduardaDev&theme=github">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeduardaDev&theme=github&exclude=html,css,javascript,python">
+   </p>
+
+<!-- Habilidades -->
+<h2 align="center">(💻) - Linguagens de Programação:</h2>
+
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meduarda&style=flat-square&color=blue" alt=""/>
-</div>
- 
-<!-- ### <img src="https://images.squarespace-cdn.com/content/v1/61a6f2befb96aa035ef5a15b/184fd851-c562-4fca-8ba2-6df4f82c167d/764.png" width="35px"> Minhas Informações:
-- 🔭| Trabalho com Sites e Desenvolmento de Bot's. Futuramente, quero Expandir meu Conhecimento para Virar Back End também.
-- 📑| Atualmente, sou Estudante de 2 Cursos de Programação.Uso meu Tempo Livre para Aprender mais.
-- 🎨| Além de Programadora, Sou Designer. Costumo sempre me Adaptar ao Estilo do Momento e Testar minha Capacidade de Criativade!
-- 🧶|  Sou Esforçada, Interativa. Gosto de sempre Colocar um Pouco de Mim nos meus Projetos. Isso os Torna Ainda mais Animadores de Exercutar-los. -->
-
-
-
-### <img src="https://www.imagensempng.com.br/wp-content/uploads/2021/08/04-9.png" width="45px"> Linguagens e Ferramentas de Programação:
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -38,9 +34,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
+<!-- Projetos Destacados -->
+<h2 align="center">(📌) - Projetos Fixados:</h2>
 
+### [Projeto Legal 1](link-para-o-projeto)
+Em breve descrição do projeto legal 1 e por que ele é incrível.
 
-### <img src="https://www.imagensempng.com.br/wp-content/uploads/2021/08/07-3.png" width="35px"> Meus Status:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meduarda&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meduarda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### [Projeto Incrível 2](link-para-o-projeto)
+Em Breve descrição do projeto incrível 2 e como ele está mudando o mundo.
 
+<!-- Redes Sociais -->
+<h2 align="center">(✉) - Portifólio:</h2>
+
+Se você quer discutir tecnologia, colaboração em projetos ou apenas bater um papo, me encontre nas redes sociais:
