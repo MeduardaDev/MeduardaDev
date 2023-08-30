@@ -37,7 +37,7 @@
 <!-- Projetos Destacados -->
 <h2 align="center">(📌) - Projetos Fixados:</h2>
 
-### [Projeto Legal 1](link-para-o-projeto)
+### [Projeto Legal 1](link-para-o-projeto)</h2>
 Em breve descrição do projeto legal 1 e por que ele é incrível.
 
 ### [Projeto Incrível 2](link-para-o-projeto)
@@ -45,5 +45,5 @@ Em Breve descrição do projeto incrível 2 e como ele está mudando o mundo.
 
 <!-- Redes Sociais -->
 <h2 align="center">(✉) - Portifólio:</h2>
-
-Se você quer discutir tecnologia, colaboração em projetos ou apenas bater um papo, me encontre nas redes sociais:
+ 
+Em breve. . .
