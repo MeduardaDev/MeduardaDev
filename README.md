@@ -9,6 +9,8 @@
  </div>
  <div align="center"><img src="https://komarev.com/ghpvc/?username=Meduarda&style=flat-square&color=blue" alt=""/></div>
 
+ <img width=100% src="https://media.discordapp.net/attachments/1148751651751071835/1148753777625669742/Meduarda_Dev_-_Divider_Image.png?width=821&height=119">
+
 - Meu nome é [Maria Eduarda](https://github.com/MeduardaDev), uma amante da **tecnologia** determinada a **aprender** e **criar** cenários inovadores. Minha jornada abrange o Desenvolvimento Web, envolvido pelo meu conhecimento em **Designer** e **Marketing Digital**.
 - Sou uma Programadora **Front-End** determinada e comunicativa, sempre procurando melhorar meus talentos.
 
