@@ -1,3 +1,5 @@
+<img width=100% src="https://media.discordapp.net/attachments/1148751651751071835/1148785147425071155/Meduarda_Dev_-_Divider_Image_Top.png">
+
 <!-- Título -->
 <h1 align="center">Seja Bem vindo(a) ao meu Github. Aceita um café? (☕)</h1>
 
